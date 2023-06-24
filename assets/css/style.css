@@ -1,0 +1,59 @@
+#contparent {
+    background-color: #F0FFF0;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.circulo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;  
+}
+
+.color0{
+   background-color: #FF69B4; 
+}
+
+.color1{
+    background-color: #ADFF2F;
+}
+
+.color2{
+    background-color: #4169E1;
+}
+
+.ancho {
+    width: 400px;
+}
+
+.card {
+    box-shadow: 0px 0px 5px #ccc, 0px 0px 10px #ccc;
+}
+
+.circulopeq{
+    float: right;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+    background-color: #FF8C00;
+}
+
+.linea {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+    height: 100%;
+    width: 3px;
+}
+
+#rango1, #rango2, #rango3 {
+    margin: 0% 25%;
+    width: 50%;
+    text-align: center;
+}
